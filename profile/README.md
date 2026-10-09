@@ -34,6 +34,6 @@ Atakujemy, żeby chronić. Testujemy tylko systemy własne, otwarte do badań al
 
 ## Kontakt
 
-Najszybciej złapiesz nas na [Discordzie](https://discord.gg/PGsJJRxhq7). Możesz też napisać na [airedteamlab@pjwstk.edu.pl](mailto:airedteamlab@pjwstk.edu.pl) albo zajrzeć na [stronę Koła](https://pja-ai-red-team-lab-showcase.gburek.dev/) i [LinkedIn](https://linkedin.com/company/ai-red-team-lab-pjatk).
+Najszybciej złapiesz nas na [Discordzie](https://discord.gg/PGsJJRxhq7). Możesz też napisać na [airedteamlab@pjwstk.edu.pl](mailto:airedteamlab@pjwstk.edu.pl) albo zajrzeć na [stronę Koła](https://airedteamlab.pja.edu.pl/) i [LinkedIn](https://linkedin.com/company/ai-red-team-lab-pjatk).
 
 Polsko-Japońska Akademia Technik Komputerowych, ul. Koszykowa 86, 02-008 Warszawa
