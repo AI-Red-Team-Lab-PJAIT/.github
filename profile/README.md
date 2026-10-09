@@ -2,6 +2,8 @@
 
 ## Testuj AI, zanim zrobi to ktoś inny.
 
+**[Dołącz do nas na Discordzie](https://discord.gg/PGsJJRxhq7)**
+
 Jesteśmy studenckim kołem naukowym Polsko-Japońskiej Akademii Technik Komputerowych. Uczysz się u nas łamać modele językowe i agentów AI, żeby potem umieć je chronić.
 
 Modele zawodzą w ciekawy sposób. Wystarczy jedna sprytna instrukcja ukryta w mailu, żeby agent zrobił coś, czego nikt mu nie kazał. U nas sprawdzasz to w kontrolowanych warunkach, na prawdziwych modelach, razem z ludźmi, których wciąga to samo. Na ostatnim hackathonie prawie wszystkie zespoły budowały autonomicznych agentów, więc te umiejętności będą potrzebne coraz częściej.
@@ -24,7 +26,7 @@ Nie chcemy być kołem, które tylko się spotyka i dyskutuje. Budujemy stały p
 
 <img alt="Trzy kroki: nabór w listopadzie, kurs AI Safety, projekt na DGX Sparku." src="https://raw.githubusercontent.com/AI-Red-Team-Lab-PJAIT/.github/main/profile/steps.png" width="100%">
 
-Koło jest otwarte dla studentów, doktorantów i pracowników wszystkich wydziałów PJATK. Najbardziej przydadzą się osoby z informatyki i kognitywistyki, ale pytania o bezpieczeństwo AI zadają też inni. Nabór ogłaszamy na Discordzie i mailem do wszystkich studentów.
+Koło jest otwarte dla studentów, doktorantów i pracowników wszystkich wydziałów PJATK. Najbardziej przydadzą się osoby z informatyki i kognitywistyki, ale pytania o bezpieczeństwo AI zadają też inni. Nabór ogłaszamy na naszym [Discordzie](https://discord.gg/PGsJJRxhq7) i mailem do wszystkich studentów. Wejdź tam już teraz, a nie przegapisz terminu.
 
 ## Zasady gry
 
@@ -32,6 +34,6 @@ Atakujemy, żeby chronić. Testujemy tylko systemy własne, otwarte do badań al
 
 ## Kontakt
 
-Napisz na [airedteamlab@pjwstk.edu.pl](mailto:airedteamlab@pjwstk.edu.pl) albo zajrzyj na [stronę Koła](https://pja-ai-red-team-lab-showcase.gburek.dev/) i [LinkedIn](https://linkedin.com/company/ai-red-team-lab-pjatk).
+Najszybciej złapiesz nas na [Discordzie](https://discord.gg/PGsJJRxhq7). Możesz też napisać na [airedteamlab@pjwstk.edu.pl](mailto:airedteamlab@pjwstk.edu.pl) albo zajrzeć na [stronę Koła](https://pja-ai-red-team-lab-showcase.gburek.dev/) i [LinkedIn](https://linkedin.com/company/ai-red-team-lab-pjatk).
 
 Polsko-Japońska Akademia Technik Komputerowych, ul. Koszykowa 86, 02-008 Warszawa
