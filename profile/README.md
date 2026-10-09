@@ -1,32 +1,14 @@
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AI-Red-Team-Lab-PJAIT/.github/main/profile/wolf-on-dark.svg">
-  <img alt="Sygnet AI Red Team Lab" src="https://raw.githubusercontent.com/AI-Red-Team-Lab-PJAIT/.github/main/profile/wolf-on-light.svg" height="120">
-</picture>
+<img alt="AI Red Team Lab PJATK. Koło naukowe PJATK." src="https://raw.githubusercontent.com/AI-Red-Team-Lab-PJAIT/.github/main/profile/banner.png" width="100%">
 
-# AI RED TEAM LAB PJATK
+## Testuj AI, zanim zrobi to ktoś inny.
 
-### Testuj AI, zanim zrobi to ktoś inny.
+Jesteśmy studenckim kołem naukowym Polsko-Japońskiej Akademii Technik Komputerowych. Uczysz się u nas łamać modele językowe i agentów AI, żeby potem umieć je chronić.
 
-Studenckie koło naukowe Polsko-Japońskiej Akademii Technik Komputerowych, w którym uczysz się łamać modele językowe i agentów AI, żeby potem umieć je chronić.
-</div>
-
-## Dlaczego warto
-
-Modele językowe zawodzą w ciekawy sposób. Wystarczy jedna sprytna instrukcja ukryta w mailu, żeby agent zrobił coś, czego nikt mu nie kazał. U nas sprawdzasz to w kontrolowanych warunkach, na prawdziwych modelach, razem z ludźmi, których to samo wciąga. Na ostatnim hackathonie prawie wszystkie zespoły budowały autonomicznych agentów, więc te umiejętności będą potrzebne coraz częściej.
+Modele zawodzą w ciekawy sposób. Wystarczy jedna sprytna instrukcja ukryta w mailu, żeby agent zrobił coś, czego nikt mu nie kazał. U nas sprawdzasz to w kontrolowanych warunkach, na prawdziwych modelach, razem z ludźmi, których wciąga to samo. Na ostatnim hackathonie prawie wszystkie zespoły budowały autonomicznych agentów, więc te umiejętności będą potrzebne coraz częściej.
 
 Nie musisz być ekspertem. Wystarczy, że ciekawi Cię, jak i dlaczego modele zawodzą.
 
-## Co robimy
-
-Zajmujemy się sześcioma obszarami:
-
-1. testowaniem modeli i systemów AI z perspektywy atakującego,
-2. prompt injection, jailbreakami i odpornością modeli językowych,
-3. oceną jakości odpowiedzi, ryzyk i ograniczeń generatywnej AI,
-4. bezpieczeństwem agentów AI i automatyzacji opartych na modelach,
-5. guardrails, monitoringiem i bezpiecznymi wdrożeniami,
-6. raportami, notami analitycznymi i materiałami edukacyjnymi.
+<img alt="Sześć obszarów pracy Koła: testowanie modeli z perspektywy atakującego, prompt injection i jailbreaki, ocena jakości odpowiedzi i ryzyk GenAI, bezpieczeństwo agentów AI, guardrails i bezpieczne wdrożenia, raporty i materiały edukacyjne." src="https://raw.githubusercontent.com/AI-Red-Team-Lab-PJAIT/.github/main/profile/areas.png" width="100%">
 
 Nie chcemy być kołem, które tylko się spotyka i dyskutuje. Budujemy stały program pracy, własne projekty i prototypy, piszemy raporty i jeździmy na wydarzenia o AI safety.
 
@@ -40,11 +22,9 @@ Nie chcemy być kołem, które tylko się spotyka i dyskutuje. Budujemy stały p
 
 ## Jak dołączyć
 
-1. Nabór ogłaszamy na początku listopada, na Discordzie i mailem do wszystkich studentów.
-2. Przechodzisz kurs AI Safety.
-3. Wybierasz projekt i zaczynasz testować.
+<img alt="Trzy kroki: nabór w listopadzie, kurs AI Safety, projekt na DGX Sparku." src="https://raw.githubusercontent.com/AI-Red-Team-Lab-PJAIT/.github/main/profile/steps.png" width="100%">
 
-Koło jest otwarte dla studentów, doktorantów i pracowników wszystkich wydziałów PJATK. Najbardziej przydadzą się osoby z informatyki i kognitywistyki, ale pytania o bezpieczeństwo AI zadają też inni.
+Koło jest otwarte dla studentów, doktorantów i pracowników wszystkich wydziałów PJATK. Najbardziej przydadzą się osoby z informatyki i kognitywistyki, ale pytania o bezpieczeństwo AI zadają też inni. Nabór ogłaszamy na Discordzie i mailem do wszystkich studentów.
 
 ## Zasady gry
 
